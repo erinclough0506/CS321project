@@ -7,6 +7,7 @@ You are to write a java program that prompts the user for the name of an input f
 The file is to be opened and read from line by line.
 As each line is read in, the program will display the individual tokens it finds in the line to the screen.
 Tokens are items in text that are separated by whitespace.
+BETH ALLEN OOMMENT
 
  */
 public class program2
